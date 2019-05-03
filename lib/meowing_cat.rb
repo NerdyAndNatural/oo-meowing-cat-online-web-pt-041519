@@ -8,9 +8,5 @@ class Cat
     @this_cats_name
   end
   attr_accessor :name
-  
-  maru = Cat.new
-maru.name = "Maru"
-maru.meow
 end
 
