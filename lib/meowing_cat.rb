@@ -1,15 +1,15 @@
 ## code your solution here. 
-class Dog
-  def name=(dog_name)
-    @this_dogs_name = dog_name
+class Cat
+  def name=(cat_name)
+    @this_cats_name = cats_name
   end
  
   def name
-    @this_dogs_name
+    @this_cats_name
   end
 end
 
-lassie = Dog.new
-lassie.name = "Lassie"
+maru = Cat.new
+maru.name = "Maru"
  
-puts lassie.name
+puts maru.name
