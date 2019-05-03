@@ -6,7 +6,7 @@ class Cat
  
   def name
     @this_cats_name
-  end
+end
   attr_accessor :name
   
 def meow
